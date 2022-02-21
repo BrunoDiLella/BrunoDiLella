@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
 
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src=https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76119bd415e3c574ddaf2c47ff72c9eb022fb9b067d7&rid=giphy.gif&ct=g>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76119bd415e3c574ddaf2c47ff72c9eb022fb9b067d7&rid=giphy.gif&ct=g">
 >
 </div>
 
