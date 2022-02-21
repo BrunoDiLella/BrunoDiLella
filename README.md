@@ -1,5 +1,5 @@
 ### Prazer, sou Bruno Gonçalves!!!
-
+![](https://komarev.com/ghpvc/?username=BrunoDiLella&style=flat-square)
 <!--
 **BrunoDiLella/BrunoDiLella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ##
   
-##
 <div align="center" >
   <a href="https://github.com/BrunoDiLella">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoDiLella&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
@@ -36,7 +35,7 @@ Here are some ideas to get you started:
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src=https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b761103aad203592e2db1cce302bc75cfd4a259416d31&rid=giphy.gif&ct=g>
 >
 </div>
-
+##
 <div> 
   
   <a href = "mailto:brgoncalves@hotmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
