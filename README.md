@@ -26,5 +26,6 @@ Here are some ideas to get you started:
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src=https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA>
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src=https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b761103aad203592e2db1cce302bc75cfd4a259416d31&rid=giphy.gif&ct=g>
+>
 </div>
